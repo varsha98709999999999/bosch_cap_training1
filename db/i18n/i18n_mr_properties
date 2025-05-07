@@ -1,0 +1,16 @@
+XCEL_PO_ID=खरेदी ऑर्डर क्रमांक
+XCEL_COMPANY=कंपनीचे नाव
+XCEL_COUNTRY=देश
+XCEL_STATUS=एकूण स्थिती
+XCEl_LSTATUS=जीवनचक्र स्थिती
+XCEL_GROSS=एकूण रक्कम
+XCEL_NET=एकूण रक्कम
+XCEL_TAX=कर रक्कम
+XCEL_CURR=चलन कोड
+XCEL_POGUID=PO की
+XCEL_POITEM_KEY=आयटम की
+XCEL_PARTNER=पार्टनर की
+XCEL_PRODUCT=उत्पादन की
+XCEL_PROD_CAT=श्रेणी
+XCEL_PROD_DESC=वर्णन
+XCEL_PO_POS=PO आयटमची स्थिती
