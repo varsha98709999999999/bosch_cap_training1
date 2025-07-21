@@ -1,5 +1,5 @@
 {
-  "xsappname": "mycapapp",  
+  "xsappname": "mycapapp", 
   "tenant-mode": "dedicated",
   "scopes": [
     {
@@ -21,7 +21,7 @@
   "role-templates": [
     {
       "name": "Viewer",
-      "description": "View all data from our Catalog service",
+      "description": "View all the data from our Catalog service",
       "default-role-name": "Viewer: Authorized to Read All Data",
       "scope-references": [
         "$XSAPPNAME.Viewer"
